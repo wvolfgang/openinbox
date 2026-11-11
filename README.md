@@ -294,4 +294,6 @@ Report security issues privately through GitHub's **Security → Report a vulner
 
 ## License
 
+
+
 [MIT](LICENSE)
